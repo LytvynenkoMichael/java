@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Divide ==> "         + operation.divide(a,b));
         System.out.println("Difference ==> "     + operation.difference(a,b));
         System.out.println("Mod ==> "            + operation.mod(a,b));
+        System.out.println("Mod ==> "            + operation.mod(a,b));
     }
 }
