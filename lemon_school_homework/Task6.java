@@ -3,7 +3,7 @@
  */
 package lemon_school_homework;
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadInteger;
 
 //Сила тяжести на Луне примерно равна 17%, напишите программу, которая вычисляет ваш вес на Луне.
 
@@ -15,14 +15,9 @@ public class Task6 {
     }
 
     public static void main(String[] args) {
+
         System.out.println("Enter your weight: ");
-        try {
-            yourWeightOnMoon(Task1.readFromConsole());
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your application " +
-                    "with valid type = 'double'");
-            e.printStackTrace();
-        }
+        yourWeightOnMoon(ReadInteger.read());
     }
 }
 

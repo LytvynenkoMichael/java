@@ -2,9 +2,11 @@
  * Michael Litvinenko
  */
 package lemon_school_homework;
+
 //Напишите программу которая определяет какое из чисел больше
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadInteger;
+
 
 public class Task8 {
     public static void whatNumberBigger(int first, int second) {
@@ -18,12 +20,8 @@ public class Task8 {
     }
 
     public static void main(String[] args) {
-        try {
-            System.out.println("Enter two numbers for compare");
-            whatNumberBigger((int) Task1.readFromConsole(), (int) Task1.readFromConsole());
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your application with valid type = 'int'");
-            e.printStackTrace();
-        }
+
+        System.out.println("Enter two numbers for compare");
+        whatNumberBigger(ReadInteger.read(), ReadInteger.read());
     }
 }

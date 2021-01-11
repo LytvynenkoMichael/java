@@ -8,7 +8,8 @@ package lemon_school_homework;
 Вычислить скорость (км/ч), с которой нужно ехать.
 */
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadDouble;
+
 
 public class Task12 {
     public static double findSpeed(double way, double time) {
@@ -16,17 +17,13 @@ public class Task12 {
     }
 
     public static void main(String[] args) {
-        try {
-            System.out.println("Find speed: ");
-            System.out.print("Enter way in 'km' = \n");
-            double way = Task1.readFromConsole();
-            System.out.print("Enter time in 'h' = h\n");
-            double time = Task1.readFromConsole();
-            System.out.printf("\nYou need drive with speed = %.1fkm/h", findSpeed(way, time));
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your " +
-                    "application with valid type = 'double'");
-            e.printStackTrace();
-        }
+
+        System.out.println("Find speed: ");
+        System.out.print("Enter way in 'km' = \n");
+        double way = ReadDouble.read();
+        System.out.print("Enter time in 'h' = h\n");
+        double time = ReadDouble.read();
+        System.out.printf("\nYou need drive with speed = %.1fkm/h", findSpeed(way, time));
+
     }
 }

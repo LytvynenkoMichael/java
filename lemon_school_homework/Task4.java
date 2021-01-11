@@ -7,7 +7,7 @@ package lemon_school_homework;
 Создайте программу, округляющую число n до ближайшего целого и выводящую результат на экран.
 */
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadDouble;
 
 public class Task4 {
     static long rounding(double a) {
@@ -15,14 +15,10 @@ public class Task4 {
     }
 
     public static void main(String[] args) {
+
         System.out.println("Enter your double number for rounding: ");
-        try {
-            System.out.println("Your result: " + rounding(Task1.readFromConsole()));
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your application " +
-                    "with valid type = 'double'");
-            e.printStackTrace();
-        }
+        System.out.println("Your result: " + rounding(ReadDouble.read()));
+
     }
 }
 

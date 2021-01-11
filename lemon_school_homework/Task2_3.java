@@ -7,7 +7,8 @@ package lemon_school_homework;
 вычисляющую и выводящую на экран сумму цифр числа n.
 */
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadInteger;
+
 
 public class Task2_3 {
     private static boolean isBinaryNatural(int number) {
@@ -33,11 +34,7 @@ public class Task2_3 {
     }
 
     public static void main(String[] args) {
-        try {
-            System.out.println(sumOfNaturalNumber((int) Task1.readFromConsole()));
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your application with valid type = 'int'");
-            e.printStackTrace();
-        }
+
+        System.out.println(sumOfNaturalNumber(ReadInteger.read()));
     }
 }

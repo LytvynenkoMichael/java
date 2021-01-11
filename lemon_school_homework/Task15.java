@@ -6,7 +6,8 @@ package lemon_school_homework;
 //Даны катеты прямоугольного треугольника. Найдите площадь, периметр и гипотенузу треугольника.
 //    right triangle
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadDouble;
+
 
 public class Task15 {
 
@@ -24,18 +25,13 @@ public class Task15 {
     }
 
     public static void main(String[] args) {
-        try {
-            System.out.println("Enter cathetus 1: ");
-            double first = Task1.readFromConsole();
-            System.out.println("Enter cathetus 2: ");
-            double second = Task1.readFromConsole();
-            System.out.printf("Square = %.1f\n", square(first, second));
-            System.out.printf("Perimeter = %.1f\n", perimeter(first, second));
-            System.out.printf("Hypotenuse = %.1f\n", hypotenuse(first, second));
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your " +
-                    "application with valid type = 'double'");
-            e.printStackTrace();
-        }
+        System.out.println("Enter cathetus 1: ");
+        double first = ReadDouble.read();
+        System.out.println("Enter cathetus 2: ");
+        double second = ReadDouble.read();
+        System.out.printf("Square = %.1f\n", square(first, second));
+        System.out.printf("Perimeter = %.1f\n", perimeter(first, second));
+        System.out.printf("Hypotenuse = %.1f\n", hypotenuse(first, second));
+
     }
 }

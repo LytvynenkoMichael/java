@@ -7,6 +7,8 @@ package lemon_school_homework;
 // деления q на w с остатком. Пример вывода программы
 // (для случая, когда в q хранится 21, а в w хранится 8): 21 / 8 = 2 и 5 в остатке.
 
+import lemon_school_homework.operator.ReadInteger;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -22,12 +24,8 @@ public class Task1 {
     }
 
     public static void main(String[] args) {
+
         System.out.println("Enter your integer numbers for division with remain");
-        try {
-            System.out.println("Your result: " + divisionWithRemain((int) readFromConsole(), (int) readFromConsole()));
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your application with valid type = 'int'");
-            e.printStackTrace();
-        }
+        System.out.println("Your result: " + divisionWithRemain(ReadInteger.read(), ReadInteger.read()));
     }
 }

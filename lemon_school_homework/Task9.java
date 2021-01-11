@@ -3,7 +3,8 @@
  */
 package lemon_school_homework;
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadInteger;
+
 
 public class Task9 {
     public static boolean isNatural(int number) {
@@ -17,12 +18,9 @@ public class Task9 {
     }
 
     public static void main(String[] args) {
-        try {
-            System.out.println("Enter  number for check number is even or not");
-            isNatural((int) Task1.readFromConsole());
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your application with valid type = 'int'");
-            e.printStackTrace();
-        }
+
+        System.out.println("Enter  number for check number is even or not");
+        isNatural(ReadInteger.read());
+
     }
 }

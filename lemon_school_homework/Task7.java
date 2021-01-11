@@ -5,7 +5,8 @@ package lemon_school_homework;
 
 //Напишите метод, который будет увеличивать заданный элемент массива на 10%.
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadInteger;
+
 
 public class Task7 {
     public static void increaseSomeElement(double[] someArray, int elementNumber) {
@@ -18,14 +19,11 @@ public class Task7 {
         for (double i : newArray) {
             System.out.printf("%.2f\n", i);
         }
-        try {
-            System.out.print("Enter index of array element: ");
-            increaseSomeElement(newArray, (int) Task1.readFromConsole());
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your application with valid type = 'int'");
-            e.printStackTrace();
-        }
+
+        System.out.print("Enter index of array element: ");
+        increaseSomeElement(newArray, ReadInteger.read());
         System.out.println("Changed array");
+
         for (double i : newArray) {
             System.out.printf("%.2f\n", i);
         }

@@ -5,7 +5,8 @@ package lemon_school_homework;
 
 //Сделайте программу, которая будет проверять является ли число типа double целым
 
-import java.util.InputMismatchException;
+import lemon_school_homework.operator.ReadDouble;
+
 
 public class Task10 {
     public static boolean isBooleanAreWholeNumber(double number) {
@@ -18,13 +19,8 @@ public class Task10 {
     }
 
     public static void main(String[] args) {
-        try {
-            System.out.println("Enter  double for check number is whole or not");
-            isBooleanAreWholeNumber(Task1.readFromConsole());
-        } catch (InputMismatchException e) {
-            System.out.println("You entered not valid arguments.\nPlease restart your " +
-                    "application with valid type = 'double'");
-            e.printStackTrace();
-        }
+
+        System.out.println("Enter  double for check number is whole or not");
+        isBooleanAreWholeNumber(ReadDouble.read());
     }
 }
