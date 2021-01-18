@@ -5,8 +5,19 @@ import java.io.IOException;
 
 public class DirectoryAndFile {
 
-    public static void showAllDirectoriesAndFiles(String directoryPath) throws IOException {
+    public String showAbsolutePath(String path) {
+        StringBuilder sb = new StringBuilder();
+        File file = new File(path);
+        if (file.exists()) {
+            sb.append(file.getAbsolutePath());
+            return sb.toString();
+        } else {
+            System.out.print("File not exist");
+            return "";
+        }
+    }
 
+    public void showAllDirectoriesAndFiles(String directoryPath) {
         File[] filesAndDirs = new File(directoryPath).listFiles();
 
         if (filesAndDirs != null) {
@@ -21,7 +32,13 @@ public class DirectoryAndFile {
     }
 
     public static void main(String[] args) throws IOException {
-        showAllDirectoriesAndFiles("src/");
+        DirectoryAndFile directoryAndFile = new DirectoryAndFile();
+        String path = "src/";
+        String path1 = "src/io_homework/Pushkin.txt";
+        File file = new File(path1);
+        System.out.println(directoryAndFile.showAbsolutePath(path));
+        directoryAndFile.showAllDirectoriesAndFiles(path);
+
     }
 
 }
