@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c8ad6c5-3e37-4405-8528-a551c7212a4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/DoubleMathOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/FloatMathOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/IntegerMathOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/LongMathOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork/OperationFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/AnimalFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/entity/CatImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/entity/DogImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/entity/DuckImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/entity/UnknownAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/interfaces/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/interfaces/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/interfaces/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory/interfaces/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_homework/DirectoryAndFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_homework/SingleToneReadWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_homework/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io_homework/Text.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task2_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/Task9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/operator/ReadDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/operator/ReadInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lemon_school_homework/operator/ReadLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/AestheticRequirements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/CognitiveRequirements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/NeedAndRespectRequirements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/PhysiologicalRequirements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/SafetyRequirements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/SelfActualizationRequirement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid_maslow_inheritance/SocialRequirements.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Blank" />
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/GitHub/lemon_school_Java30_11" value="master" />
+        <entry key="$PROJECT_DIR$/GitHub_test" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\lemon.school\all\GitHub\lemon_school_Java30_11\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lKiKrpPyZd9Wwv0KPwBebyucBX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lemon_school_homework_1" />
+      <recent name="lemon_school_homework.operator" />
+      <recent name="classwork" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lemon.school\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_homework.Delete" />
+      <module name="lemon.school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectoryAndFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_homework.DirectoryAndFile" />
+      <module name="lemon.school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForReadWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_homework.ForReadWrite" />
+      <module name="lemon.school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.generative_patterns.factory.Main" />
+      <module name="lemon.school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.generative_patterns.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_homework.TestMain" />
+      <module name="lemon.school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io_homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.DirectoryAndFile" />
+        <item itemvalue="Application.Delete" />
+        <item itemvalue="Application.ForReadWrite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\misha\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8ad6c5-3e37-4405-8528-a551c7212a4a" name="Default Changelist" comment="" />
+      <created>1607352123010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607352123010</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first classwork">
+      <created>1608464789576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608464789576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/GitHub/lemon_school_Java30_11" />
+      <path value="$PROJECT_DIR$/GitHub_test" />
+    </ignored-roots>
+    <MESSAGE value="first classwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="first classwork" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Notifications" timestamp="1610446029097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1610446029097" />
+    <state x="552" y="179" key="#Project_Structure" timestamp="1607352141346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1607352141346" />
+    <state x="731" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611075624911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611075624911" />
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1611393667827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611393667827" />
+    <state x="779" y="212" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1610627557044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="212" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610627557044" />
+    <state x="756" y="406" width="486" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611072272658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="406" width="486" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1611072272658" />
+    <state x="803" y="418" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1610451475349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="418" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1610451475349" />
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611075453198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611075453198" />
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1610377579363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610377579363" />
+    <state x="1195" y="227" key="#xdebugger.evaluate" timestamp="1610635332225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1195" y="227" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1610635332225" />
+    <state x="718" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607418328873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1607418328873" />
+    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1608464788855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608464788855" />
+    <state x="714" y="236" key="DetectedRootsChooserDialog" timestamp="1607957277923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="236" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607957277923" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1608721663765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608721663765" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1611411892406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611411892406" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1611392769679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611392769679" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1611392769679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611392769679" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1611392769679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611392769679" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1611392769679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611392769679" />
+    <state width="914" height="345" key="GridCell.Tab.1.bottom" timestamp="1610907420059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610907420059" />
+    <state width="914" height="345" key="GridCell.Tab.1.center" timestamp="1610907420059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610907420059" />
+    <state width="914" height="345" key="GridCell.Tab.1.left" timestamp="1610907420059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610907420059" />
+    <state width="914" height="345" key="GridCell.Tab.1.right" timestamp="1610907420059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610907420059" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1611228823631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611228823631" />
+    <state x="440" y="95" width="1199" height="713" key="SettingsEditor" timestamp="1611148579436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" width="1199" height="713" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611148579436" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1610388090716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610388090716" />
+    <state x="1075" y="252" width="540" height="524" key="StructurePopup" timestamp="1610390132863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1075" y="252" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1610390132863" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1608721395121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608721395121" />
+    <state x="646" y="255" key="VcsDiffUtil.ChangesDialog" timestamp="1608721659623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="255" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608721659623" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1608721551757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608721551757" />
+    <state x="1144" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1611147460021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1144" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1611147460021" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610445207376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610445207376" />
+    <state x="1016" y="260" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610635352637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1016" y="260" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1610635352637" />
+    <state x="819" y="257" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1608464479832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="257" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608464479832" />
+    <state x="343" y="141" key="new project wizard" timestamp="1611411893255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="343" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611411893255" />
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1607526297347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607526297347" />
+    <state x="666" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1611147877664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="149" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611147877664" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1610629227550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610629227550" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1610451128895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610451128895" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value=" без " />
+        <entry key="text" value="Всё ходит по цепи кругом;\n&quot; + &quot;Идёт направо — песнь заводит,\n&quot; + &quot;Налево — сказку говорит.\n&quot; +             &quot;Там чудеса: там леший бродит,\n&quot; + &quot;Русалка на ветвях сидит;\n&quot; + &quot;Там на неведомых дорожках\n&quot; +             &quot;Следы невиданных зверей;\n&quot; + &quot;Избушка там на курьих ножках\n&quot; + &quot;Стоит без окон, без дверей;\n&quot; +             &quot;Там лес и дол видений полны;\n&quot; + &quot;Там о заре прихлынут волны\n&quot; + &quot;На брег песчаный и пустой,\n&quot; +             &quot;И тридцать витязей прекрасных\n&quot; + &quot;Чредой из вод выходят ясных,\n&quot; + &quot;И с ними дядька их морской;\n&quot; +             &quot;Там королевич мимоходом\n&quot; + &quot;Пленяет грозного царя;\n&quot; + &quot;Там в облаках перед народом\n&quot; +             &quot;Через леса, через моря\n&quot; + &quot;Колдун несёт богатыря;\n&quot; + &quot;В темнице там царевна тужит,\n&quot; +             &quot;А бурый волк ей верно служит;\n&quot; + &quot;Там ступа с Бабою Ягой\n&quot; + &quot;Идёт, бредёт сама собой,\n&quot; +             &quot;Там царь Кащей над златом чахнет;\n&quot; + &quot;Там русский дух… там Русью пахнет!\n&quot; +             &quot;И там я был, и мёд я пил;\n&quot; + &quot;У моря видел дуб зелёный;\n&quot; + &quot;Под ним сидел, и кот учёный\n&quot; +             &quot;Свои мне сказки говорил.&quot;;" />
+      </map>
+    </option>
+  </component>
+</project>
