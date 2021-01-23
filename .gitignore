@@ -1,11 +1,19 @@
-.classpath
-.project
-.settings
-
-# Package Files #
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
 *.jar
 *.war
 *.ear
-
-*.iml
-*.idea
+*.nar
+hs_err_pid*
