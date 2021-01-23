@@ -6,19 +6,19 @@ import java.io.IOException;
 public class TestMain {
     public static void main(String[] args) {
         SingleToneReadWrite st = SingleToneReadWrite.getInstance();
-        File file = null;
-        String filename = "Pushkin.txt";
+        String filename = "src/litvinenko/io_homework/oak_verse";
+        File file = new File(filename);
         String path = "src/io_homework";
 
-        try {
-            file = st.createFile(path, filename);
-            System.out.println("Create file name: " + filename
-                    + "\nin directory: " + path);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+//        try {
+//            file = st.createFile(path, filename);
+//            System.out.println("Create file name: " + filename
+//                    + "\nin directory: " + path);
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
 
-        st.writeToFile(file, Text.CONTENT_OAK);
+
         st.countWordsInFile(file);
 //        System.out.println(st.readTextFromFile(file));
 

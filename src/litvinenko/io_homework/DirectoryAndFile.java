@@ -34,7 +34,7 @@ public class DirectoryAndFile {
     public static void main(String[] args) throws IOException {
         DirectoryAndFile directoryAndFile = new DirectoryAndFile();
         String path = "src/";
-        String path1 = "src/io_homework/Pushkin.txt";
+        String path1 = "src/io_homework/oak_verse";
         File file = new File(path1);
         System.out.println(directoryAndFile.showAbsolutePath(path));
         directoryAndFile.showAllDirectoriesAndFiles(path);
