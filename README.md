@@ -1,2 +1,1 @@
-# lemon_school_Java30_11
-homeworks
+My repository for all
