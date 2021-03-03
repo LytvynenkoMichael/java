@@ -1,4 +1,4 @@
-package litvinenko.lemon_school_homework.operator;
+package litvinenko.simple.operator;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package litvinenko.lemon_school_homework_1;
+package litvinenko.extension_task;
 
 public class Father implements FatherImpl {
     private String name;

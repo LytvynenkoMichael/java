@@ -1,13 +1,14 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 /*В переменной n хранится вещественное число с ненулевой дробной частью.
 Создайте программу, округляющую число n до ближайшего целого и выводящую результат на экран.
 */
 
-import litvinenko.lemon_school_homework.operator.ReadDouble;
+
+import litvinenko.simple.operator.ReadDouble;
 
 public class Task4 {
     static long rounding(double a) {

@@ -1,4 +1,4 @@
-package litvinenko.io_homework;
+package litvinenko.io_task;
 
 public class Text {
 

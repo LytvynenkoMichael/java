@@ -1,12 +1,12 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 /*Напишите программу, которая будет просить ввести ваше имя, а потом выведет его на консоль.*/
 
-import litvinenko.lemon_school_homework.operator.ReadLine;
 
+import litvinenko.simple.operator.ReadLine;
 
 public class Task11 {
 

@@ -1,11 +1,12 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
-import litvinenko.lemon_school_homework.operator.ReadInteger;
 
 //Сила тяжести на Луне примерно равна 17%, напишите программу, которая вычисляет ваш вес на Луне.
+
+import litvinenko.simple.operator.ReadInteger;
 
 public class Task6 {
     public static double yourWeightOnMoon(double yourWeight) {

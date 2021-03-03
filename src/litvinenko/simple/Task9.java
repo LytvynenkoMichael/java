@@ -1,10 +1,10 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
-import litvinenko.lemon_school_homework.operator.ReadInteger;
 
+import litvinenko.simple.operator.ReadInteger;
 
 public class Task9 {
     public static boolean isNatural(int number) {

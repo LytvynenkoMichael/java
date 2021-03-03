@@ -1,12 +1,12 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 //Напишите метод, который будет увеличивать заданный элемент массива на 10%.
 
-import litvinenko.lemon_school_homework.operator.ReadInteger;
 
+import litvinenko.simple.operator.ReadInteger;
 
 public class Task7 {
     public static void increaseSomeElement(double[] someArray, int elementNumber) {

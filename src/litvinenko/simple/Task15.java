@@ -1,13 +1,13 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 //Даны катеты прямоугольного треугольника. Найдите площадь, периметр и гипотенузу треугольника.
 //    right triangle
 
-import litvinenko.lemon_school_homework.operator.ReadDouble;
 
+import litvinenko.simple.operator.ReadDouble;
 
 public class Task15 {
 

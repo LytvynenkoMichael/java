@@ -1,12 +1,12 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 //Напишите программу которая определяет какое из чисел больше
 
-import litvinenko.lemon_school_homework.operator.ReadInteger;
 
+import litvinenko.simple.operator.ReadInteger;
 
 public class Task8 {
     public static void whatNumberBigger(int first, int second) {

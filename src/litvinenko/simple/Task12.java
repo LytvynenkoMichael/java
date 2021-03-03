@@ -1,15 +1,15 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 /*
 Пользователь вводит задает расстояние до места назначения (N) и время, за которое нужно доехать (T).
 Вычислить скорость (км/ч), с которой нужно ехать.
 */
 
-import litvinenko.lemon_school_homework.operator.ReadDouble;
 
+import litvinenko.simple.operator.ReadDouble;
 
 public class Task12 {
     public static double findSpeed(double way, double time) {

@@ -1,12 +1,12 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 //Напишите программу, которая будет считать количество часов, минут и секунд в n-ном количестве суток.
 
-import litvinenko.lemon_school_homework.operator.ReadDouble;
 
+import litvinenko.simple.operator.ReadDouble;
 
 public class Task13 {
     static void hourMinuteSecond(double day) {

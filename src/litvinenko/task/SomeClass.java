@@ -1,4 +1,4 @@
-package litvinenko.classwork;
+package litvinenko.task;
 
 public class SomeClass {
 }

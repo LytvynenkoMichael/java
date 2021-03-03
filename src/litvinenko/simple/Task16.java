@@ -1,12 +1,12 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 //Дано значение температуры в градусах Цельсия. Вывести температуру  в градусах Фаренгейта.
 
-import litvinenko.lemon_school_homework.operator.ReadDouble;
 
+import litvinenko.simple.operator.ReadDouble;
 
 public class Task16 {
     public static double convertCelsiusForKelvin(double celsius) {

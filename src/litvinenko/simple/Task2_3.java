@@ -1,14 +1,14 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 /*В переменной n хранится натуральное двузначное число. Создайте программу,
 вычисляющую и выводящую на экран сумму цифр числа n.
 */
 
-import litvinenko.lemon_school_homework.operator.ReadInteger;
 
+import litvinenko.simple.operator.ReadInteger;
 
 public class Task2_3 {
     private static boolean isBinaryNatural(int number) {

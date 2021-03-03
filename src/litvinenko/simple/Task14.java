@@ -1,12 +1,12 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 //Напишите метод переводящий гривны в доллары по заданному курсу. В качестве аргументов передайте кол-во гривен и курс.
 
-import litvinenko.lemon_school_homework.operator.ReadDouble;
 
+import litvinenko.simple.operator.ReadDouble;
 
 public class Task14 {
     public static double convertUahToUsd(double uah, double usd) {

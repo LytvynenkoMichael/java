@@ -1,13 +1,13 @@
 /**
  * Michael Litvinenko
  */
-package litvinenko.lemon_school_homework;
+package litvinenko.simple;
 
 //В переменных q и w хранятся два натуральных числа. Создайте программу, выводящую на экран результат
 // деления q на w с остатком. Пример вывода программы
 // (для случая, когда в q хранится 21, а в w хранится 8): 21 / 8 = 2 и 5 в остатке.
 
-import litvinenko.lemon_school_homework.operator.ReadInteger;
+import litvinenko.simple.operator.ReadInteger;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

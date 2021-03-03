@@ -1,4 +1,4 @@
-package litvinenko.classwork.factory_method;
+package litvinenko.task.factory_method;
 
 public class OperationFactory {
 
